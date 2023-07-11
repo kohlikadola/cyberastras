@@ -1,8 +1,12 @@
-**CyberAstras<br/>**<br/>
-**Disclaimer:This repository is for educational purposes only.<br/>With great power comes great responsibility.<br/>**
-**Stay Safe<br/>I am not responsible for the misuse of this repository<br/>**<br/>
+<p align='Center'><b>Cyber-Astras</b>
 
-This repository covers the  weapons that an attacker uses to attack his prey.
+  <br/>
+</p>
+
+**Disclaimer:This repository is for educational purposes only.<br/>With great power comes great responsibility.<br/>**
+**Stay Safe<br/>I am not responsible for the misuse of this repository.<br/>**<br/>
+
+This repository covers the  weapons that an attacker uses to infiltrate in a machine/network.
 <br/><br/>
 
 The first commit fetches 2 common tools used to attack an enemy.
