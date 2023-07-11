@@ -6,7 +6,7 @@
 **Disclaimer:This repository is for educational purposes only.<br/>With great power comes great responsibility.<br/>**
 **Stay Safe<br/>I am not responsible for the misuse of this repository.<br/>**<br/>
 
-This repository covers the  weapons that an attacker uses to infiltrate in a machine/network.
+This repository covers the  tool that  to infiltrate in a machine/network.
 <br/><br/>
 
 The first commit fetches 2 common tools used to attack an enemy.
